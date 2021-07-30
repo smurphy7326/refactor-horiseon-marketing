@@ -1,3 +1,4 @@
+/* General Style Starts */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,6 +8,28 @@
 body {
     background-color: #d9dcd6;
 }
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+/* General Style Ends */
+
+/* Header Style Starts */
 
 .header {
     padding: 20px;
@@ -40,15 +63,9 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
+/* Header Style Starts */
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
+/* Hero Style Starts */
 
 .hero {
     height: 800px;
@@ -58,22 +75,18 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* Hero Style Ends */
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
+/* Services Style Starts */
 
 .services {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+/* Services Style Ends */
+
+/* Benefits Style Starts */
 
 .benefits {
     margin-right: 20px;
@@ -134,6 +147,8 @@ p {
     max-width: 150px;
 }
 
+/* Benefits Style Ends */
+
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -188,6 +203,7 @@ p {
     font-size: 36px;
 }
 
+/* Footer Style Starts */
 .footer {
     padding: 30px;
     clear: both;
@@ -198,3 +214,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/* Footer Style Ends */
