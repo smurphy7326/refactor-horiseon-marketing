@@ -70,6 +70,9 @@ Horiseon asked the UCONN Coding Bootcamp to help reformat the code of their webs
 ### Version 2.3 - changing names in images
 * Changed the names in images
 
+### Version 2.4 - pictures working
+* Making sure the pictures work
+
 ![image](./assets/images/Github-pages-working.jpg)
 
 ![image](./assets/images/Week-1-README-Part-1.jpg)
@@ -78,10 +81,10 @@ Horiseon asked the UCONN Coding Bootcamp to help reformat the code of their webs
 
 ![image](./assets/images/Week-1-README-Part-3.jpg)
 
-![image](./assets/image/Week-1-working-website-part-1.jpg)
+![image](./assets/images/Week-1-working-website-part-1.jpg)
 
-![image](./assets/image/Week-1-working-website-part-2.jpg)
+![image](./assets/images/Week-1-working-website-part-2.jpg)
 
-![image](./assets/image/Week-1-working-website-part-3.jpg)
+![image](./assets/images/Week-1-working-website-part-3.jpg)
 
 
