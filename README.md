@@ -60,6 +60,9 @@ Horiseon asked the UCONN Coding Bootcamp to help reformat the code of their webs
 * Changed the footer header to h4
 * Added text after the alt in the services section to describe the photos
 
-### Verison 2.1 - 
+### Verison 2.1 - added jpg for README
 * Changed some div tags to have the code read better
 * Added Screenshots to the README.md
+
+![image](./github pages working.jpg)
+
