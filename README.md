@@ -55,7 +55,6 @@ Horiseon asked the UCONN Coding Bootcamp to help reformat the code of their webs
 ### Version 1.11 - README.md tinkering
 * Adjusted the README.md file to look more streamline
 
-
 ### Version 2 - h4 and text after alt
 * Changed the footer header to h4
 * Added text after the alt in the services section to describe the photos
@@ -73,6 +72,10 @@ Horiseon asked the UCONN Coding Bootcamp to help reformat the code of their webs
 ### Version 2.4 - pictures working
 * Making sure the pictures work
 
+### Version 2.5 - pictures all working
+
+* Corrected errors for the pictures 
+* Added a new change for the Part 3 in README
 ![image](./assets/images/Github-pages-working.jpg)
 
 ![image](./assets/images/Week-1-README-Part-1.jpg)
