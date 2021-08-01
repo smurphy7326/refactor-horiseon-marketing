@@ -64,5 +64,24 @@ Horiseon asked the UCONN Coding Bootcamp to help reformat the code of their webs
 * Changed some div tags to have the code read better
 * Added Screenshots to the README.md
 
-![image](./github pages working.jpg)
+### Version 2.2 - trying out picture
+* Tried to get a picture in the README
+
+### Version 2.3 - changing names in images
+* Changed the names in images
+
+![image](./assets/images/Github-pages-working.jpg)
+
+![image](./assets/images/Week-1-README-Part-1.jpg)
+
+![image](./assets/images/Week-1-README-Part-2.jpg)
+
+![image](./assets/images/Week-1-README-Part-3.jpg)
+
+![image](./assets/image/Week-1-working-website-part-1.jpg)
+
+![image](./assets/image/Week-1-working-website-part-2.jpg)
+
+![image](./assets/image/Week-1-working-website-part-3.jpg)
+
 
