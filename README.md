@@ -82,7 +82,7 @@ Horiseon asked the UCONN Coding Bootcamp to help reformat the code of their webs
 
 ![image](./assets/images/Week-1-README-Part-2.jpg)
 
-![image](./assets/images/Week-1-README-Part-3.jpg)
+![image](./assets/images/Week-1-README-Part-3a.jpg)
 
 ![image](./assets/images/Week-1-working-website-part-1.jpg)
 
