@@ -54,3 +54,12 @@ Horiseon asked the UCONN Coding Bootcamp to help reformat the code of their webs
 
 ### Version 1.11 - README.md tinkering
 * Adjusted the README.md file to look more streamline
+
+
+### Version 2 - h4 and text after alt
+* Changed the footer header to h4
+* Added text after the alt in the services section to describe the photos
+
+### Verison 2.1 - 
+* Changed some div tags to have the code read better
+* Added Screenshots to the README.md
