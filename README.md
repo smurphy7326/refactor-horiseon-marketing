@@ -77,6 +77,8 @@ Horiseon asked the UCONN Coding Bootcamp to help reformat the code of their webs
 * Corrected errors for the pictures 
 * Added a new change for the Part 3 in README
 
+![image](./assets/images/Github-pages-working.jpg)
+
 ![image](./assets/images/Week-1-working-website-part-1.jpg)
 
 ![image](./assets/images/Week-1-working-website-part-2.jpg)
